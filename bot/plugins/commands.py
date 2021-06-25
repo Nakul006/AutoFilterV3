@@ -33,7 +33,7 @@ async def start(bot, update):
             )
             return
         except Exception:
-            await update.reply_text("<b>What the fcuk you are doing..! I'm controlled by </b>\n\n<b>🗣️ any Doubt @Pablo_NK</b>")
+            await update.reply_text("<b>What the fcuk you are doing..! I'm controlled by </b>\n\n<b>🗣️ any Doubt @MVQEXd</b>")
             return    
     try:
         file_uid = update.command[1]
